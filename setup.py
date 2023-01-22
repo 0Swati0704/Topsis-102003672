@@ -15,8 +15,8 @@ setup(
     description='This is a Python Package implementing TOPSIS used for multi-criteria decision analysis method',
     long_description=readme(),
     long_description_content_type='text/markdown',
-    author='Shivam Behl',
-    author_email='shivambehl123@gmail.com',
+    author='Swati Saran',
+    author_email='ssaran_be20@thapar.edu',
     url='https://github.com/0Swati0704/Topsis-102003672',
     keywords=['topsis', 'mcda', 'UCS633', 'TIET'],
     install_requires=[
