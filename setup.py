@@ -17,7 +17,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Shivam Behl',
     author_email='shivambehl123@gmail.com',
-    url='https://github.com/shivambehl/TopsisPy',
+    url='https://github.com/0Swati0704/Topsis-102003672',
     keywords=['topsis', 'mcda', 'UCS633', 'TIET'],
     install_requires=[
         'numpy',
